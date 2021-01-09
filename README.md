@@ -55,3 +55,16 @@ Deploy using firebase.
 
 ### Github workflow setup to build after commit to main
 
+###  To start in https://localhost
+Update package.json for the start script to 
+{
+  "start": "HTTPS=true react-scripts start"
+}
+
+### Wireframes
+
+https://pradheepap.github.io/profile/
+
+### App live url
+https://pradheepa-portfolio.web.app/
+
