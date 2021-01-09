@@ -68,3 +68,8 @@ https://pradheepap.github.io/profile/
 ### App live url
 https://pradheepa-portfolio.web.app/
 
+
+### Deployment Docs
+1. Make change
+2. Yarn build
+3. Firebase deploy
