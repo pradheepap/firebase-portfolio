@@ -73,3 +73,7 @@ https://pradheepa-portfolio.web.app/
 1. Make change
 2. Yarn build
 3. Firebase deploy
+
+### Git Commit
+
+1. Use Git commit message emoji from https://gist.github.com/pradheepap/241ca79f9c1cffdcc3715ae30b729707
