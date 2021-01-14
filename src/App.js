@@ -46,7 +46,7 @@ class App extends Component {
     return (
      <>
         <PreLoader data={this.state.resumeData.main}/>
-        <Header data={this.state.resumeData.main}/>
+        {/* <Header data={this.state.resumeData.main}/> */}
         <Home data={this.state.resumeData.main}/>
         <Blog data={this.state.resumeData.resume}/>
         <Projects data={this.state.resumeData.portfolio}/>

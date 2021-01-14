@@ -26,7 +26,7 @@ class Videos extends Component {
                         <div className="team-content">
                             <p>Proin a neque nisi. Nam ipsum nisi, venenatis ut nulla quis, egestas scelerisque orci. Maecenas a finibus odio.</p>
                             <div className="user-image">
-                                <img src="http://placehold.it/60x60" alt=""/>
+                                <img src="https://placehold.it/60x60" alt=""/>
                             </div>
                             <div className="team-info">
                                 <h3 className="user-name">React JS</h3>
@@ -41,7 +41,7 @@ class Videos extends Component {
                         <div className="team-content">
                             <p>Integer molestie aliquam gravida. Nullam nec arcu finibus, imperdiet nulla vitae, placerat nibh. Cras maximus venenatis molestie.</p>
                             <div className="user-image">
-                                <img src="http://placehold.it/60x60" alt=""/>
+                                <img src="https://placehold.it/60x60" alt=""/>
                             </div>
                             <div className="team-info">
                                 <h3 className="user-name">AWS UserGroup</h3>
@@ -56,7 +56,7 @@ class Videos extends Component {
                         <div className="team-content">
                             <p>Quisque diam odio, maximus ac consectetur eu, auctor non lorem. Cras quis est non ante ultrices molestie. Ut vehicula et diam at aliquam.</p>
                             <div className="user-image">
-                                <img src="http://placehold.it/60x60" alt=""/>
+                                <img src="https://placehold.it/60x60" alt=""/>
                             </div>
                             <div className="team-info">
                                 <h3 className="user-name">Identity and Security Meetup</h3>
